@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": "octoprofile",
-  "name": "octoprofile",
+  "alias": "github-analyzer",
+  "name": "github-analyzer",
   "builds": [{ "src": "package.json", "use": "@now/next" }]
 }

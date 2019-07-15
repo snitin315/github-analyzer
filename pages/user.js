@@ -86,7 +86,7 @@ const User = props => {
         <Error error={error} />
       ) : (
         <>
-          <Head title={`${username ? `OctoProfile | ${username}` : 'OctoProfile'}`} />
+          <Head title={`${username ? `GitProfile | ${username}` : 'GitProfile'}`} />
 
           <Corner />
 

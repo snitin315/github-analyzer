@@ -36,7 +36,7 @@ const Error = ({ error }) => (
     <Head title="OctoProfile" />
     <Corner />
     <Octicon icon={MarkGithub} size="large" />
-    <h1>OctoProfile</h1>
+    <h1>Github Analyzer</h1>
 
     {error && (
       <div>

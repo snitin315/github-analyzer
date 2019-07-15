@@ -48,7 +48,7 @@ const CornerStyles = styled.div`
 const Corner = () => (
   <CornerStyles>
     <a
-      href="https://github.com/bchiang7/octoprofile"
+      href="https://github.com/snitin315/github-analyzer"
       target="_blank"
       rel="noopener noreferrer"
       className="github-corner"

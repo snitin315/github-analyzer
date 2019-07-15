@@ -59,7 +59,7 @@ const Home = () => {
 
   return (
     <main>
-      <Head title="OctoProfile" />
+      <Head title="Github-Analyzer" />
 
       <StyledContainer>
         <form
@@ -71,7 +71,7 @@ const Home = () => {
             });
           }}>
           <Octicon icon={MarkGithub} size="large" />
-          <label htmlFor="username">Find Your OctoProfile</label>
+          <label htmlFor="username">Find Your Github Profile</label>
           <input name="username" type="text" onChange={handleChange} />
         </form>
       </StyledContainer>
